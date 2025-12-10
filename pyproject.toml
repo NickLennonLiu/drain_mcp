@@ -1,0 +1,10 @@
+[project]
+name = "drain-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "drain3>=0.9.11",
+    "fastmcp>=2.12.5",
+]
