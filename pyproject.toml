@@ -1,7 +1,7 @@
 [project]
 name = "drain-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "A FastMCP server for Drain3 log template mining, training, inference, and cluster inspection."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
